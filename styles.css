@@ -1,6 +1,7 @@
 .main{
     position: relative;
     background-color: lightgray;
+    margin: 0 auto;
     height: 900px;
     width: 900px;
     font-size: 60px;
